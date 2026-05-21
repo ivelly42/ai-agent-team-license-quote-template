@@ -1,0 +1,38 @@
+{
+  "name": "AI Agent Team License Quote Template",
+  "type": "public_discovery_mirror",
+  "paid_product": "Agent Ops Command Center",
+  "team_license_quote_template": "https://ivelly42.github.io/ai-agent-team-license-quote-template/TEAM_LICENSE_QUOTE_TEMPLATE.md",
+  "landing_page": "https://ivelly42.github.io/ai-agent-team-license-quote-template/",
+  "team_checkout_request_page": "https://ivelly42.github.io/agent-ops-command-center/team-checkout-request.html",
+  "template_request_page": "https://ivelly42.github.io/agent-ops-command-center/template-pack-request.html",
+  "template_request_form": "https://github.com/ivelly42/agent-ops-command-center/issues/new?template=template-pack-request.yml",
+  "buy_page": "https://ivelly42.github.io/agent-ops-command-center/buy.html",
+  "metrics": "https://ivelly42.github.io/agent-ops-command-center/metrics/status.json",
+  "price_usd": 29,
+  "team_license_price_usd": 203,
+  "team_license_seats": 7,
+  "buyer_search_terms": [
+    "AI agent team license quote",
+    "Codex team license quote",
+    "Claude Code team license quote",
+    "Cursor team license quote",
+    "AI coding-agent invoice request",
+    "AI agent purchase order template",
+    "AI agent team license approval",
+    "AI agent procurement quote",
+    "Agent Ops Command Center quote"
+  ],
+  "sections": [
+    "Quote Identity",
+    "License Scope",
+    "Value Summary",
+    "Procurement Notes",
+    "Approval Packet",
+    "Checkout Readiness",
+    "Delivery Terms",
+    "Decision Record",
+    "Revenue Proof"
+  ],
+  "revenue_rule": "Count revenue only after checkout, receipt, payout, or seller-dashboard evidence tied to the paid template pack."
+}
