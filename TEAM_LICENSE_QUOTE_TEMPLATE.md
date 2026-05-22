@@ -126,7 +126,7 @@ Count revenue only after one of these exists:
 - payout proof
 - seller-dashboard proof
 
-Fast team checkout request:
+Primary team request:
 
 https://ivelly42.github.io/agent-ops-command-center/team-request-url.html
 

@@ -10,7 +10,7 @@ This repository is a search and routing surface. The paid ZIP is not stored here
 - Free team license quote template: https://ivelly42.github.io/ai-agent-team-license-quote-template/TEAM_LICENSE_QUOTE_TEMPLATE.md
 - Primary $203 team request URL: https://ivelly42.github.io/agent-ops-command-center/team-request-url.html
 - Fast template-pack request page: https://ivelly42.github.io/agent-ops-command-center/template-pack-request.html
-- Fast team checkout request page: https://ivelly42.github.io/agent-ops-command-center/team-checkout-request.html
+- Primary team request page: https://ivelly42.github.io/agent-ops-command-center/team-request-url.html
 - Fast template-pack request form: https://github.com/ivelly42/agent-ops-command-center/issues/new?template=template-pack-request.yml
 - Checkout status: https://ivelly42.github.io/agent-ops-command-center/checkout-status.json
 - Buy page: https://ivelly42.github.io/agent-ops-command-center/buy.html

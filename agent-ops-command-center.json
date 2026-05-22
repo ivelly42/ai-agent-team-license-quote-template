@@ -5,7 +5,7 @@
   "team_license_quote_template": "https://ivelly42.github.io/ai-agent-team-license-quote-template/TEAM_LICENSE_QUOTE_TEMPLATE.md",
   "landing_page": "https://ivelly42.github.io/ai-agent-team-license-quote-template/",
   "primary_request_url": "https://ivelly42.github.io/agent-ops-command-center/team-request-url.html",
-  "team_checkout_request_page": "https://ivelly42.github.io/agent-ops-command-center/team-checkout-request.html",
+  "team_checkout_request_page": "https://ivelly42.github.io/agent-ops-command-center/team-request-url.html",
   "template_request_page": "https://ivelly42.github.io/agent-ops-command-center/template-pack-request.html",
   "template_request_form": "https://github.com/ivelly42/agent-ops-command-center/issues/new?template=template-pack-request.yml",
   "payment_ready_request_form": "https://github.com/ivelly42/agent-ops-command-center/issues/new?template=payment-ready.yml",
