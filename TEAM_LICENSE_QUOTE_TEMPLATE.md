@@ -128,7 +128,11 @@ Count revenue only after one of these exists:
 
 Fast team checkout request:
 
-https://ivelly42.github.io/agent-ops-command-center/team-checkout-request.html
+https://ivelly42.github.io/agent-ops-command-center/team-request-url.html
+
+Checkout status:
+
+https://ivelly42.github.io/agent-ops-command-center/checkout-status.json
 
 Fast template request:
 
